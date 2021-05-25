@@ -1,7 +1,6 @@
 const container = document.querySelector('.container');
 const unsplashURL = 'https://source.unsplash.com/random/';
 
-console.log('hello?');
 
 const rows = 10;
 
